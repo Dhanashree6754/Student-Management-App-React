@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "8770",
+      "name": "RiyaShrirame",
+      "email": "Riya41@gamail.com",
+      "password": "Riya123",
+      "department": "Commerce"
+    },
+    {
+      "id": "9b34",
+      "name": "Dhanashree Telang",
+      "email": "tdhanashri41@gmail.com",
+      "password": "12345",
+      "department": "Commerce"
+    },
+    {
+      "id": "fd99",
+      "name": "Shruti Jain",
+      "email": "Shruti31@gmail.com",
+      "password": "shruti123",
+      "department": "Arts"
+    },
+    {
+      "id": "9bd1",
+      "name": "Sayli Khangar",
+      "email": "sayli32@gmail.com",
+      "password": "234456",
+      "department": "Arts"
+    },
+    {
+      "id": "b01b",
+      "name": "Varun Sharma",
+      "email": "Sharmav1@gmail.com",
+      "password": "123123",
+      "department": "Commerce"
+    },
+    {
+      "id": "2467",
+      "name": "Sahil Thakre",
+      "email": "Sahil12@gmail.com",
+      "password": "78987",
+      "department": "Commerce"
+    },
+    {
+      "id": "0f37",
+      "name": "Neha Sharma",
+      "email": "Neha32@gmail.com",
+      "password": "Neha123",
+      "department": "Science"
+    }
+  ],
+  "users": []
+}
